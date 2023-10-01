@@ -33,9 +33,11 @@ Este proyecto está desarrollado en Java y utiliza la biblioteca Swing para crea
 
 La interfaz de usuario proporciona un control fácil de usar para administrar los dispositivos de la Smart Home. Puedes realizar acciones como encender y apagar luces, abrir la puerta del garaje, ajustar la velocidad del ventilador y más.
 
-## Capturas de Pantalla
+## Interfaz gráfica: 
+<img width="1440" alt="Captura de pantalla 2023-09-25 a la(s) 11 16 50" src="https://github.com/annlima/ProyectoEstructuras/assets/89811870/5a2cd5f8-093e-4034-b4ca-9764a0d91bdd">
 
-[Inserta aquí algunas capturas de pantalla de la aplicación en funcionamiento para mostrar cómo se ve y cómo se utilizan sus características.]
+
+Imagen de la casa obtenida de: https://www.youtube.com/watch?app=desktop&v=M4MxA0REDAU 
 
 ## Contribuciones
 
@@ -46,12 +48,6 @@ Las contribuciones son bienvenidas. Si deseas mejorar este proyecto, sigue estos
 3. Realiza tus cambios y realiza confirmaciones significativas.
 4. Envía tus cambios (`git push origin feature/mejora`).
 5. Abre una solicitud de extracción y describe tus cambios.
-
-## Interfaz gráfica: 
-<img width="1440" alt="Captura de pantalla 2023-09-25 a la(s) 11 16 50" src="https://github.com/annlima/ProyectoEstructuras/assets/89811870/5a2cd5f8-093e-4034-b4ca-9764a0d91bdd">
-
-
-Imagen de la casa obtenida de: https://www.youtube.com/watch?app=desktop&v=M4MxA0REDAU 
 
 ## Autor
 
